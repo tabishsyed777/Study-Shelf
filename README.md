@@ -2,12 +2,14 @@
 
 A static, browser based study library for three exam subjects. Add your prepared PDFs, ask a question, and see the best matching passage beside a short revision version.
 
-## Run on GitHub Pages
+## Enable GitHub Pages
 
-1. Create a GitHub repository and add `index.html` from this folder to the repository root.
-2. In the repository, open **Settings → Pages**.
-3. Set the source to **Deploy from a branch**, choose the `main` branch and `/ (root)`, then save.
-4. Open the Pages URL GitHub provides.
+The app is already in the repository root as `index.html`.
+
+1. Open **Settings → Pages** in this repository.
+2. Under **Build and deployment**, choose **Deploy from a branch**.
+3. Select the `main` branch and `/ (root)`, then save.
+4. GitHub will publish the app at `https://tabishsyed777.github.io/Study-Shelf/` after deployment finishes.
 
 ## Use
 
